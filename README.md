@@ -1,16 +1,10 @@
 # meteo
 
-A new Flutter project.
+Flutter with openweather Api.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![IMG_20220317_100427](https://user-images.githubusercontent.com/64170643/235086594-bb602187-26a7-4fb5-a18c-b2d233bc8154.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![IMG_20220317_100518](https://user-images.githubusercontent.com/64170643/235086607-f70113c3-1ffc-41d5-92e4-d05d96c60c82.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IMG_20220317_100423](https://user-images.githubusercontent.com/64170643/235086668-d541abe0-18e3-4efc-a129-e52d09c11e32.jpg)
